@@ -22,7 +22,7 @@ repositories:
 
 website: "https://kubean-io.github.io/kubean/"
 
-artwork: "https://landscape.cncf.io/logos/kubean.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubean"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
